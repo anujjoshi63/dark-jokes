@@ -91,3 +91,4 @@ Live hosted Link: [https://clone-252d1.firebaseapp.com/](https://clone-252d1.fir
 
 [linkedin-url]: https://linkedin.com/in/thejoshi
 [product-screenshot]: https://learning.techfryday.com/anuj/example.png
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
