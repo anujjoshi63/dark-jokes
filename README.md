@@ -57,7 +57,7 @@
 ## Getting Started
 
 <p>Make sure you have <a href="https://nodejs.org">Node.js</a> installed</p>
-### Installing and Starting the app
+<h3>Installing and Starting the app<h3>
 
 1. Clone the repo
    ```sh
